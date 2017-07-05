@@ -2,10 +2,12 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
 
 
 int main()
 {
+	std::cout << "Hello Alec\n";
     return 0;
 }
 
